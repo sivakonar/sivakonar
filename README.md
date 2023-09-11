@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sivasubramani Konar</h1>
-<h3 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ubuntu&pause=1000&color=4CF3F7&width=435&lines=Data+Analyst+%7C+Machine+Learning+%7C+Deep+Learning+%7C+AI+Enthusiast+%7C+Automation" alt="Typing SVG" /></a></h3>
+<h3 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ubuntu&pause=1000&color=4CF3F7&width=830&lines=Data+Analyst+%7C+Machine+Learning+%7C+Deep+Learning+%7C+AI+Enthusiast+%7C+Automation" alt="Typing SVG" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivakonar&label=Profile%20views&color=0e75b6&style=flat" alt="sivakonar" /> </p>
 
